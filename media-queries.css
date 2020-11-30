@@ -10,10 +10,40 @@ body {
         list-style-type: none;
     }
 }
-.nav-links{
-    border: 2px solid green;
+.nav-links {
+}
+li:nth-child(1) {
+border: 2px;
+    background-color: lightgrey;
+    margin:1em;
+    padding:25px;
+    text-align:center;
 }
 
+li:nth-child(2) {
+border: 2px;
+    background-color: lightgrey;
+    margin:1em;
+    padding:25px
+}
+
+li:nth-child(3) {
+border: 2px;
+    background-color: lightgrey;
+    margin:1em;
+    padding:25px
+}
+
+li:nth-child(4) {
+    border: 2px;
+background-color:lightgrey;
+    margin:1em;
+    padding:25px
+}
+
+.header-img{
+
+}
 
 @media screen and (min-width: 480px) {
     body {
