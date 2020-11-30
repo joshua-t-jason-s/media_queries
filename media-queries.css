@@ -5,10 +5,16 @@ body {
 
 
 @media screen and (min-width: 320px) {
-    h1 {
+    ul {
         text-align: center;
+        list-style-type: none;
+        border: 2px solid red;
     }
 }
+.home-1{
+    border: 2px solid green;
+}
+
 
 @media screen and (min-width: 480px) {
     body {
