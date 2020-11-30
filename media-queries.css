@@ -8,10 +8,9 @@ body {
     ul {
         text-align: center;
         list-style-type: none;
-        border: 2px solid red;
     }
 }
-.home-1{
+.nav-links{
     border: 2px solid green;
 }
 
